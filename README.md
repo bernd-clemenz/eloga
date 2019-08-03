@@ -1,2 +1,3 @@
 # eloga
-Some detection in Tomcat log files.
+
+Some error detection in Tomcat log files.
